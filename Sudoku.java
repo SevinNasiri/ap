@@ -4,7 +4,6 @@ import java.io.IOException;
 import java.util.Scanner;
 
 public class Sudoku {
-
     public static int[][] sudoku = new int[9][9];
     public static Scanner input = new Scanner(System.in);
 
